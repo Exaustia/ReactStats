@@ -1,0 +1,22 @@
+.graph{
+    background-color: white;
+    justify-content: center;
+    display: flex;
+}
+
+.stats{
+    display: flex;
+    margin: 1em;
+    justify-content: space-between
+}
+.nb{
+    margin: .5em;
+    display: flex;
+    padding: 1em;
+    outline:none;
+    text-align: center;
+    background:#F7F7F7;
+    color: black;
+    letter-spacing:1px;
+    text-shadow:0;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: gainsboro
+}
+
+.list-clients{
+    background-color: #232D32; 
+    display: flex;
+    padding: 1em;
+    border-width: 5px;
+    align-items: center;
+    text-align: center;
+    justify-content: center
+}
+
+.client{
+    margin: 1em;
+    opacity: 1;
+    border-bottom: 5px solid #85ce3c !important;
+    color: #FFFFFF;
+    transition: all 0.
+}
+button {
+    outline:none;
+    height: 40px;
+    text-align: center;
+    width: 130px;
+    border-radius:40px;
+    background:black;
+    border: 2px solid green;
+    color:green;
+    letter-spacing:1px;
+    text-shadow:0;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
